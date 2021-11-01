@@ -1,0 +1,5 @@
+1. Install matching node and angularcli versions. (node 16.13, angular 9.1.11)
+2. Install JDK (version 11)
+3. Install Android Studio and Emulator
+4. Setup environment as per Nativescript website(ANDROID-HOME, platform-tools, chocolatey)
+5. Go to SDK location and change d8.bat to dx.bat and d8.dar(lib) to dx.dar
